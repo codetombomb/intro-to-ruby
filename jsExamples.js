@@ -2,16 +2,9 @@ function exampleFunction() {
     console.log("Hello, World!")
 }
 
-
-class Cat {
-    constructor(name){
-        this.name = name
-    }
-
-    sayName(){
-        console.log(this.name)
-    }
+function add(a,b){
+    return a + b
 }
 
-const wednesday = new Cat("Wednesday")
-wednesday.sayName()
+const total = add(1,2)
+console.log(total)
