@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+# require_relative is a method sililar to 'import' in JS. It allows call upon relative files in other directories. 
+require_relative "../config/environment"
+
+start_cli #entry point into our app
