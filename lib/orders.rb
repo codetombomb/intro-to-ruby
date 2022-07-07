@@ -1,4 +1,4 @@
-ORDERS = [
+ORDER = [
     {
         first_name: "Tom",
         last_name: "Tobar",

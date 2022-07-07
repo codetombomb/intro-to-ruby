@@ -24,9 +24,8 @@ def print_menu
 end
 
 def collect_user_input
-    gets.strip
+    user_input = gets.strip
+    binding.pry
 end
-
-
 
 
