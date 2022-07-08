@@ -9,19 +9,19 @@
   - [x] Create Methods
   - [x] Use `puts` and `print`
   - [x] Create variables
-  - [ ] Use conditionals
-  - [ ] Create, add to, and iterate over an array
-  - [ ] Create hashes
-  - [ ] Use binding.pry - like debugger in JS
+  - [x] Use conditionals
+  - [x] Create, add to, and iterate over an array
+  - [x] Create hashes
+  - [x] Use binding.pry - like debugger in JS
 - Deliverables
   [Pizza Planet Roadmap.drawio](https://drive.google.com/file/d/1UxzGhRPJEHrOM71C37cexBGZTwITgaRt/view?usp=drivesdk)
   Create a CLI (**C**ommand **L**ine **I**nterface) that will:
   - [x] Greet and prompt users to select an option.
   - [x] Capture and save users entry (gets.chomp gets.strip)
-  - [ ] Handle user input
-  - [ ] Create user information hash
-  - [ ] Add hash to orders
-  - [ ] Iterate over orders array and print to terminal
+  - [x] Handle user input
+  - [x] Create user information hash
+  - [x] Add hash to orders
+  - [x] Iterate over orders array and print to terminal
     
     [Demo of working app that we will build](https://youtu.be/MDyzKwr3AC0)
 
@@ -119,7 +119,7 @@
                 
             - **Do - START THE APP**
             
-    - [ ]  Build out deliverables
+    - [x]  Build out deliverables
         - Walkthrough
             - **Do -** Create a welcome method
                 - Talk about method naming
