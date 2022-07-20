@@ -1,4 +1,4 @@
-# Lecture 7/6 - Intro to Ruby (part 1)
+# Lecture 7/6 - Intro to Ruby (part 2)
 
 - Announcements
   - Please make any corrections to your projects ASAP and let me know when you have completed them.
